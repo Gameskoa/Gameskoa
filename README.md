@@ -34,6 +34,3 @@ The tier prompt accepts t7, t8, T7, T8, 7, and 8 as valid input.
 -- Better looking output
 
 
-## For a good time and the best alliance go to... ###
-Kingdom 387, SDW
-
